@@ -1,4 +1,4 @@
 def sapa(nama):
-    return f"Halo, {nama}! Selamat belajar Git."
+    return f"Halo, {Ghea Sika}! Selamat belajar Software Quality Assurance."
 
 print(sapa("Mahasiswa"))
